@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#1A1816"/>
+  <rect x="3.5" y="3.5" width="57" height="57" rx="11" stroke="#C8B9A6" stroke-opacity="0.32" stroke-width="1"/>
+  <!-- Editorial Serif 'A' Monogram with Architectural Chair Crossbar -->
+  <path d="M32 13L16.5 49H22.2L26.2 39.2H37.8L41.8 49H47.5L32 13ZM28.1 34.4L32 24.6L35.9 34.4H28.1Z" fill="#F9F6F1"/>
+  <path d="M21 49H43" stroke="#C8B9A6" stroke-width="1.6" stroke-linecap="round"/>
+</svg>
